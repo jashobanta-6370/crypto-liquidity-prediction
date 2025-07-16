@@ -1,0 +1,27 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment folders (if you create later)
+.env/
+.venv/
+env/
+venv/
+
+# VS Code settings (safe to ignore)
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Optional: model files — comment/remove this if you want them on GitHub
+model/*.joblib
+
+# Flask DB or temp files (if added later)
+*.db
+*.sqlite3
+instance/
