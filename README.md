@@ -17,12 +17,11 @@ Built with:
 ### 🔹 Screenshot 1 – Web App Interface
 
 ### 🔹 Screenshot 1 – Web App Interface
-
-![Web UI](https://github.com/user-attachments/assets/0c21f889-8a45-4f92-b34d-61e2e4b7ff39/Screenshot%202025-07-16%20150636)
+<img width="1696" height="765" alt="Screenshot 2025-07-16 150636" src="https://github.com/user-attachments/assets/6c23ca3a-93ce-4fa9-932f-440106dcb90e" />
 
 ### 🔹 Screenshot 2 – Model Evaluation or Result
 
-![Prediction](https://github.com/user-attachments/assets/086be693-e8d0-4baf-9636-3166cb59f794/Screenshot%202025-07-16%20150651)
+<img width="1639" height="489" alt="Screenshot 2025-07-16 150651" src="https://github.com/user-attachments/assets/f380b3cc-9ca4-4a9e-8e30-b0aa64bab5aa" />
 
 ---
 
