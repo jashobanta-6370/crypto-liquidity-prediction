@@ -12,7 +12,7 @@ Built with:
 
 ## 📸 Project Preview
 
-> Replace the links below with your image file paths (e.g., `/images/demo.png` or direct GitHub raw links)
+
 
 ### 🔹 Screenshot 1 – Web App Interface
 <img width="1696" height="765" alt="Screenshot 2025-07-16 150636" src="https://github.com/user-attachments/assets/6c23ca3a-93ce-4fa9-932f-440106dcb90e" />
