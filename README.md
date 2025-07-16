@@ -9,8 +9,9 @@ Built with:
 - 💻 Designed for deployment (e.g., Render, local hosting)
 
 ---
+## 📸 Live Project Link  
+🔗 [Click to Open Web App](https://crypto-liquidity-prediction-production.up.railway.app/)
 
-## 📸 Project Preview
 ---
 
 ## 📊 Exploratory Data Analysis (EDA) REPORTS
